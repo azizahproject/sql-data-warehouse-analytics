@@ -24,7 +24,7 @@ The purpose of this analysis is to:
 ---
 
 ## 🙌 Acknowledgment
-This project is part by the **Data Warehouse series by [DataWithBaraa-EDA](https://youtu.be/6cJ5Ji8zSDg?si=h3JFN7X9x4KxdjOp)** and **[DataWithBaraa-Advance Analysis]([https://www.youtube.com/@DataWithBaraa](https://youtu.be/2jGhQpbzHes?si=-juvJR-RwShcy3GL))** —  
+This project is part by the **Data Warehouse series by [DataWithBaraa-EDA](https://youtu.be/6cJ5Ji8zSDg?si=h3JFN7X9x4KxdjOp)** and **[DataWithBaraa-Advance Analysis](https://youtu.be/2jGhQpbzHes?si=-juvJR-RwShcy3GL)** —  
 a comprehensive learning resource that guides professionals through practical steps in building a modern, layered data warehouse.
 
 ---
