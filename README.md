@@ -1,7 +1,7 @@
 # 📊 Data Analytics Project
 
 
-This project is a **continuation of the Data Warehouse development** from the *DataWithBaraa* YouTube course.  
+This project is a **continuation of the [Data Warehouse Project](https://github.com/azizahproject/sql-data-warehouse-project)** from the *DataWithBaraa* YouTube course.  
 In the previous phase, I built the **ETL pipeline** and successfully produced clean, standardized, and analytics-ready tables in the **Gold Layer**:
 
 - `gold.dim_customer` — Customer dimension table  
